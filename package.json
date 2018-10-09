@@ -1,0 +1,22 @@
+{
+  "name": "blueseed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node -r dotenv/config server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "node-zillow": "^1.0.1"
+  }
+}

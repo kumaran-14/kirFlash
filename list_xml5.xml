@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. -->
+<runs>
+  <city label="Mountain View" no="641" data="14" datatwo="25100"/>
+  <city label="Acampo" no="1" data="123" datatwo="27100"/>
+  <city label="Acton" no="2" data="134" datatwo="25100"/>
+  <city label="Bella Vista" no="67" data="101" datatwo="35100"/>
+  <city label="Bellflower" no="68" data="80" datatwo="14100"/>
+  <city label="Belmont" no="69" data="30" datatwo="301010"/>
+  <city label="Belvedere Tiburon" no="700" data="1013" datatwo="30010"/>
+  <city label="Ben Lomond" no="71" data="13" datatwo="3000"/>
+  <city label="Benicia" no="72" data="112" datatwo="26200"/>
+  <city label="Benton" no="73" data="116" datatwo="53010"/>
+  <city label="Berkeley" no="74" data="314" datatwo="28510"/>
+  <city label="Berry Creek" no="75" data="166" datatwo="53010"/>
+  <city label="Beverly Hills" no="76" data="79" datatwo="10100"/>
+  <city label="Burbank" no="115" data="988" datatwo="18100"/>
+  <city label="Burlingame" no="116" data="398" datatwo="26150"/>
+  <city label="Burney" no="117" data="166" datatwo="61249"/>
+  <city label="Burnt Ranch" no="118" data="136" datatwo="53600"/>
+  <city label="Butte City" no="119" data="1231" datatwo="35600"/>
+  <city label="Buttonwillow" no="120" data="1333" datatwo="20610"/>
+  <city label="Byron" no="121" data="124" datatwo="2700"/>
+  <city label="Cabazon" no="122" data="167" datatwo="1100"/>
+  <city label="Calabasas" no="123" data="39" datatwo="16800"/>
+  <city label="Calexico" no="124" data="155" datatwo="61100"/>
+  <city label="Caliente" no="125" data="156" datatwo="55500"/>
+  <city label="California City" no="126" data="14" datatwo="25600"/>
+  <city label="California Hot Springs" no="127" data="13" datatwo="26600"/>
+  <city label="Camp Pendleton" no="136" data="17" datatwo="15060"/>
+  <city label="Campbell" no="137" data="41" datatwo="500"/>
+  <city label="Campo" no="138" data="141" datatwo="43247"/>
+  <city label="Camptonville" no="139" data="116" datatwo="15300"/>
+  <city label="Canby" no="140" data="161" datatwo="53100"/>
+  <city label="Canoga Park" no="141" data="922" datatwo="12000"/>
+  <city label="Cantil" no="142" data="141" datatwo="2500"/>
+  <city label="Cantua Creek" no="143" data="113" datatwo="26100"/>
+  <city label="Canyon Country" no="144" data="119" datatwo="10100"/>
+  <city label="Castaic" no="161" data="9" datatwo="1000"/>
+  <city label="Castro Valley" no="162" data="431" datatwo="3000"/>
+  <city label="Castroville" no="163" data="131" datatwo="2900"/>
+  <city label="Cathedral City" no="164" data="215" datatwo="11100"/>
+  <city label="Catheys Valley" no="165" data="112" datatwo="27100"/>
+  <city label="Cayucos" no="166" data="135" datatwo="21700"/>
+  <city label="Cazadero" no="167" data="311" datatwo="41500"/>
+  <city label="Cedar Glen" no="168" data="146" datatwo="45300"/>
+  <city label="Cedarpines Park" no="169" data="146" datatwo="51300"/>
+  <city label="Cedarville" no="170" data="166" datatwo="51300"/>
+  <city label="Ceres" no="171" data="132" datatwo="21750"/>
+  <city label="Cerritos" no="172" data="28" datatwo="14200"/>
+  <city label="Challenge" no="173" data="116" datatwo="53200"/>
+  <city label="Channel Islands" no="174" data="336" datatwo="15100"/>
+  <city label="Channel Islands Park" no="175" data="226" datatwo="21530"/>
+  <city label="Chatsworth" no="176" data="339" datatwo="10020"/>
+  <city label="Chester" no="177" data="136" datatwo="53600"/>
+  <city label="Chico" no="178" data="131" datatwo="27695"/>
+  <city label="Chilcoot" no="179" data="136" datatwo="56300"/>
+  <city label="Chinese Camp" no="180" data="132" datatwo="62700"/>
+  <city label="Chino" no="181" data="110" datatwo="17600"/>
+  <city label="Chino Hills" no="182" data="310" datatwo="17600"/>
+  <city label="Chowchilla" no="183" data="113" datatwo="24600"/>
+  <city label="Chualar" no="184" data="113" datatwo="63000"/>
+  <city label="Chula Vista" no="185" data="117" datatwo="62229"/>
+  <city label="Citrus Heights" no="186" data="1322" datatwo="62700"/>
+  <city label="Claremont" no="187" data="93" datatwo="61600"/>
+  <city label="Clarksburg" no="188" data="124" datatwo="12700"/>
+  <city label="Clayton" no="189" data="125" datatwo="27100"/>
+  <city label="Clearlake" no="190" data="25" datatwo="29200"/>
+  <city label="Clearlake Oaks" no="191" data="52" datatwo="22900"/>
+  <city label="Culver City" no="228" data="18" datatwo="11711"/>
+  <city label="Cupertino" no="229" data="124" datatwo="25010"/>
+  <city label="Cutler" no="230" data="131" datatwo="22600"/>
+  <city label="Cypress" no="231" data="852" datatwo="1400"/>
+  <city label="Daggett" no="232" data="134" datatwo="220q3"/>
+  <city label="Daly City" no="233" data="33" datatwo="31500"/>
+  <city label="Dana Point" no="234" data="61" datatwo="15020"/>
+  <city label="Danville" no="235" data="132" datatwo="27040"/>
+  <city label="Davenport" no="236" data="13" datatwo="30020"/>
+  <city label="Davis" no="237" data="112" datatwo="28119"/>
+  <city label="Davis Creek" no="238" data="126" datatwo="53100"/>
+  <city label="Death Valley" no="239" data="124" datatwo="12105"/>
+  <city label="Deer Park" no="240" data="232" datatwo="29100"/>
+  <city label="Del Mar" no="241" data="74" datatwo="15400"/>
+  <city label="Del Rey" no="242" data="133" datatwo="821600"/>
+  <city label="Delano" no="243" data="123" datatwo="12220"/>
+  <city label="Delhi" no="244" data="122" datatwo="32700"/>
+  <city label="Denair" no="245" data="122" datatwo="2700"/>
+  <city label="Descanso" no="246" data="124" datatwo="32500"/>
+  <city label="Desert Center" no="247" data="115" datatwo="11500"/>
+  <city label="Desert Hot Springs" no="248" data="125" datatwo="11100"/>
+  <city label="Diablo" no="249" data="212" datatwo="2700"/>
+  <city label="Diamond Bar" no="250" data="39" datatwo="15000"/>
+  <city label="Diamond Springs" no="251" data="132" datatwo="25700"/>
+  <city label="Downieville" no="262" data="163" datatwo="53500"/>
+  <city label="Doyle" no="263" data="136" datatwo="65300"/>
+  <city label="Dutch Flat" no="271" data="216" datatwo="5800"/>
+  <city label="Earlimart" no="272" data="178" datatwo="29900"/>
+  <city label="Earp" no="273" data="14" datatwo="1100"/>
+  <city label="East Tehama County" no="274" data="155" datatwo="7600"/>
+  <city label="East Tulare County" no="275" data="167" datatwo="700"/>
+  <city label="El Cerrito" no="280" data="56" datatwo="7000"/>
+  <city label="Elk Creek" no="290" data="124" datatwo="33500"/>
+  <city label="San Francisco" no="848" data="56" datatwo="30180"/>
+</runs>
