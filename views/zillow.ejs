@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Zillow</title>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Zillow Details</h2>
+        <form>
+            <div class="form-group" style="width:150px;">
+                <label for="yearBuilt">Year Built:</label>
+                <input type="text" class="form-control" id="yearBuilt" name="yearBuilt" value=<%= results.response.results.result[0].yearBuilt %>>
+            </div>
+            <div class="form-group" style="width:150px;">
+                <label for="hbed">Bedrooms:</label>
+                <input type="text" class="form-control" id="hbed" name="hbed" value=<%= results.response.results.result[0].bedrooms %>>
+            </div>
+            <div class="form-group" style="width:150px;">
+                <label for="area">Area:</label>
+                <input type="text" class="form-control" id="area" name="area" value=<%= results.response.results.result[0].finishedSqFt %>>
+            </div>
+            <div class="form-group" style="width:150px;">
+                <label for="houseValue">House value: $</label>
+                <input type="text" class="form-control" id="houseValue" name="houseValue" value=<%= results.response.results.result[0].zestimate[0].amount[0]._  %>>
+            </div>
+            <div class="form-group" style="width:150px;">
+                <label for="no">No: </label>
+                <input type="text" class="form-control" id="no" name="no" value=<%= cityData.no  %>>
+            </div>
+            <div class="form-group" style="width:150px;">
+                <label for="data">Data: </label>
+                <input type="text" class="form-control" id="data" name="data" value=<%= cityData.data  %>>
+            </div>
+            <div class="form-group" style="width:150px;">
+                <label for="datatwo">Datatwo: </label>
+                <input type="text" class="form-control" id="datatwo" name="datatwo" value=<%= cityData.datatwo  %>>
+            </div>
+        </form>
+        <img id="staticMap" src=<%= staticMap%>>
+        <img id="streetView" src=<%= streetView%>>
+    </div>
+    
+    
+</body>
+
+</html>
