@@ -64,7 +64,7 @@ app.get('/zillow', (req, res) => {
       
         let address = query.address.split(' ').join('+');
         let citystatezip = query.citystatezip.split(' ').join('+'); 
-        let streetView = "http://www.mapquestapi.com/staticmap/v4/getplacemap?key="+process.env.MAPQUEST_API_KEY+"&location="+address+","+citystatezip+"&size=600,600&type=map&zoom=16&imagetype=jpeg&showicon=red_1-1";
+        let streetView = "https://www.mapquestapi.com/staticmap/v4/getplacemap?key="+process.env.MAPQUEST_API_KEY+"&location="+address+","+citystatezip+"&size=600,600&type=map&zoom=16&imagetype=jpeg&showicon=red_1-1";
 
         for (let i = 0; i < cityList.city.length; i++) {
             let element = cityList.city[i];
