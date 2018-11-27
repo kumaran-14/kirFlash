@@ -3,7 +3,6 @@ const cors = require('cors');
 const path = require('path');
 const Zillow = require('node-zillow');
 const fs = require('fs');
-
 const app = express();
 const port = process.env.PORT || 5000;
 const zillow = new Zillow(process.env.ZILLOW_API_KEY);
@@ -48,6 +47,7 @@ app.get('/list_xml5.xml', (req,res) =>{
 
 app.get('/zillow', (req, res) => {
     address = req.query.address;
+    _(address)
     arr = address.split(',');
     citystatezip = arr[1].trim();
     address = arr[0].trim();
